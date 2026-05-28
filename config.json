@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsncrypt",
+        "uuid": 8826956,
+        "checksum": "9n46qr"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
